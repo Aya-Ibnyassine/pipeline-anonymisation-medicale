@@ -1,0 +1,12 @@
+streamlit
+pandas
+google-genai
+presidio-analyzer
+presidio-anonymizer
+spacy
+python-dotenv
+python-docx
+pdfplumber
+PyMuPDF
+mysql-connector-python
+cryptography
